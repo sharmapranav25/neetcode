@@ -1,0 +1,15 @@
+time complexity: O(n) to encode [lenght of the list]
+                 O(m) to decode [length of the encoded string]
+                 O(m+n)
+
+space complexity: O(1)
+
+optimization: Cant be optimized further for encoding as each element of the list needs to be traversed
+at least once and a seperating element is needed between each element to later dedcode the string 
+cant be further optimized for decoding as every element needed to be traversed at least once to find the words in the encoded string 
+
+error checking: a possible error is if the charater used to encode exists in the orignial string, if so it will be caught early on in the encoding stage and program is stapped with a print out statement of what needs to be done
+
+time taken: 13mins 44secs
+
+
