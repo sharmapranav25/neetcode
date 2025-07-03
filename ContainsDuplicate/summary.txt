@@ -1,0 +1,7 @@
+time complexity: O(n)
+space complexity: O(n)
+optimization: can't be further optimized
+Error Checking: a print statement will be returned if there is an error 
+time taken: did not time this problem, but not more than 5 mins
+
+ 
