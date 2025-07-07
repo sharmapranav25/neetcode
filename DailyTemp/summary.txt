@@ -1,0 +1,4 @@
+time complexity= O(n)
+space complexity O(n)
+time taken= 52 mins 
+fully optimzed 
