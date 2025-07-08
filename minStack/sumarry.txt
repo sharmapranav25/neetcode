@@ -1,0 +1,4 @@
+time complexity: O(1)
+space: O(n)
+fully optimized
+time taken 52 mins
